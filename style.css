@@ -72,12 +72,12 @@ body {
   color: white;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  margin: 20px;
+  padding-left: 20px;
 }
 
 #footer p {
   color: white;
-  margin: 20px;
+  padding-left: 20px;
 }
 
 .column {
